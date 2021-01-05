@@ -70,6 +70,7 @@ p.info-heading {
     font-weight: 600;
     font-size: 3.3vw;
     margin-bottom: 5%;
+    width: 85%;
 }
 p.info-desc {
     font-weight: 400;
@@ -159,6 +160,7 @@ div.social-container svg path {
         display: block;
     }
     p.info-heading {
+        width: 100%;
         font-size: 7.5vw;
     }
     p.info-desc {
